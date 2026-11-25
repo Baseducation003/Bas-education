@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="BAS EDUCATION — ಕರ್ನಾಟಕ, ಭಾರತ ಮತ್ತು ವಿಶ್ವ ಇತಿಹಾಸವನ್ನು ವಿಷಯವಾರು ತಿಳಿಯಿರಿ.">
+<title>BAS EDUCATION | History & Heritage</title>
+<style>
+:root{--navy:#101b35;--gold:#e6ad43;--cream:#fffaf0;--ink:#1e293b;--muted:#64748b;--white:#fff}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:system-ui,-apple-system,"Noto Sans Kannada",sans-serif;background:#f6f7fb;color:var(--ink);line-height:1.65}
+header{background:var(--navy);color:white;position:sticky;top:0;z-index:10;box-shadow:0 5px 20px #0002}
+.nav{max-width:1150px;margin:auto;padding:14px 22px;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+.brand{font-weight:900;letter-spacing:1.4px;font-size:1.25rem}.brand span{color:var(--gold)}
+nav{display:flex;gap:18px;flex-wrap:wrap}nav a{color:#e9edf7;text-decoration:none;font-size:.92rem}nav a:hover{color:var(--gold)}
+.hero{background:linear-gradient(120deg,#101b35ed,#1c3159e8),url('https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=1800&q=85') center/cover;color:white;padding:82px 22px 76px}
+.hero-inner{max-width:1050px;margin:auto}.eyebrow{color:var(--gold);font-weight:800;letter-spacing:2px;text-transform:uppercase}
+h1{font-size:clamp(2.3rem,6vw,4.7rem);line-height:1.12;margin:12px 0 18px}h1 span{color:var(--gold)}
+.hero p{max-width:680px;color:#e2e8f0;font-size:1.12rem}
+.btn{display:inline-block;background:var(--gold);color:#17213a;padding:12px 21px;border-radius:8px;font-weight:800;text-decoration:none;margin-top:12px}
+section{max-width:1150px;margin:auto;padding:58px 22px}.section-head{display:flex;align-items:end;justify-content:space-between;gap:18px;flex-wrap:wrap;margin-bottom:24px}
+h2{font-size:clamp(1.6rem,3vw,2.3rem);margin:0;color:var(--navy)}.sub{color:var(--muted);margin:6px 0 0}
+.searchbar{display:flex;gap:10px;max-width:480px;width:100%}input,select{font:inherit;border:1px solid #d6dce8;background:white;padding:12px 14px;border-radius:9px;width:100%;outline-color:var(--gold)}
+.categories{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:15px}
+.category{background:white;border:1px solid #e8ebf2;border-radius:14px;padding:22px;box-shadow:0 8px 25px #10204008;transition:.2s}.category:hover{transform:translateY(-4px);border-color:var(--gold)}
+.icon{font-size:2rem}.category h3{margin:10px 0 5px;color:var(--navy)}.category p{margin:0;color:var(--muted);font-size:.94rem}
+.articles{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:18px}
+.article{background:white;border-radius:14px;overflow:hidden;border:1px solid #e8ebf2;display:flex;flex-direction:column}
+.article .art-top{height:145px;background:linear-gradient(135deg,#243b63,#d6a34b);display:grid;place-items:center;color:white;font-size:2.7rem}
+.article .content{padding:20px;display:flex;flex-direction:column;flex:1}.tag{font-size:.78rem;color:#93640c;background:#fff2d5;padding:4px 9px;border-radius:30px;align-self:flex-start;font-weight:700}
+.article h3{margin:12px 0 7px;color:var(--navy)}.article p{color:var(--muted);margin:0 0 14px}.read{margin-top:auto;color:#9a680d;font-weight:800;text-decoration:none}
+.feature{background:var(--cream);border-top:1px solid #f0e5cd;border-bottom:1px solid #f0e5cd}
+.feature-inner{max-width:1100px;margin:auto;padding:44px 22px;display:grid;grid-template-columns:1.2fr 1fr;gap:28px;align-items:center}
+.feature h2{margin-bottom:12px}.feature li{margin:8px 0}.quote{background:var(--navy);color:white;padding:28px;border-radius:15px;font-size:1.2rem}.quote small{display:block;color:var(--gold);margin-top:14px}
+.about{display:grid;grid-template-columns:1fr 1fr;gap:25px}.panel{background:white;border:1px solid #e8ebf2;padding:24px;border-radius:14px}
+footer{background:var(--navy);color:#dce4f3;padding:30px 22px;text-align:center}footer strong{color:var(--gold)}footer p{margin:6px}
+.hidden{display:none!important}
+@media(max-width:700px){.hero{padding:58px 20px}.feature-inner,.about{grid-template-columns:1fr}.nav{justify-content:center}nav{justify-content:center;gap:12px}.section-head{align-items:stretch}}
+</style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <div class="brand">BAS <span>EDUCATION</span></div>
+    <nav aria-label="Main navigation">
+      <a href="#home">Home</a><a href="#topics">Topics</a><a href="#articles">History Library</a><a href="#about">About</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <div class="hero" id="home">
+    <div class="hero-inner">
+      <div class="eyebrow">History • Heritage • Knowledge</div>
+      <h1>ಇತಿಹಾಸ ತಿಳಿಯೋಣ.<br><span>ನಮ್ಮ ಪರಂಪರೆ ಉಳಿಸೋಣ.</span></h1>
+      <p>BAS EDUCATION — ಕರ್ನಾಟಕ, ಭಾರತ ಮತ್ತು ವಿಶ್ವದ ಇತಿಹಾಸವನ್ನು ಸರಳವಾಗಿ, ಆಸಕ್ತಿದಾಯಕವಾಗಿ ಹಾಗೂ ವಿಷಯವಾರು ತಿಳಿಯುವ ನಿಮ್ಮ ಜ್ಞಾನ ವೇದಿಕೆ.</p>
+      <a class="btn" href="#topics">Explore History / ಇತಿಹಾಸ ಓದಿ</a>
+    </div>
+  </div>
+
+  <section id="topics">
+    <div class="section-head">
+      <div><h2>ಇತಿಹಾಸದ ವಿಷಯಗಳು</h2><p class="sub">ನಿಮಗೆ ಆಸಕ್ತಿಯಿರುವ ವಿಭಾಗವನ್ನು ಆಯ್ಕೆಮಾಡಿ.</p></div>
+    </div>
+    <div class="categories">
+      <article class="category"><div class="icon">🏛️</div><h3>ಕರ್ನಾಟಕದ ಇತಿಹಾಸ</h3><p>ರಾಜವಂಶಗಳು, ಸಾಮ್ರಾಜ್ಯಗಳು, ಕನ್ನಡ ನಾಡಿನ ಪರಂಪರೆ.</p></article>
+      <article class="category"><div class="icon">🇮🇳</div><h3>ಭಾರತದ ಇತಿಹಾಸ</h3><p>ಪ್ರಾಚೀನ ಭಾರತದಿಂದ ಸ್ವಾತಂತ್ರ್ಯ ಮತ್ತು ಆಧುನಿಕ ಭಾರತ.</p></article>
+      <article class="category"><div class="icon">🌍</div><h3>ವಿಶ್ವ ಇತಿಹಾಸ</h3><p>ವಿಶ್ವ ನಾಗರಿಕತೆಗಳು, ಘಟನೆಗಳು ಮತ್ತು ಬದಲಾವಣೆಗಳು.</p></article>
+      <article class="category"><div class="icon">👑</div><h3>ರಾಜರು & ಸಾಮ್ರಾಜ್ಯಗಳು</h3><p>ಆಡಳಿತಗಾರರು, ಯುದ್ಧಗಳು ಮತ್ತು ಸಾಮ್ರಾಜ್ಯಗಳ ಕಥೆಗಳು.</p></article>
+      <article class="category"><div class="icon">🏰</div><h3>ಕೋಟೆ & ಸ್ಮಾರಕಗಳು</h3><p>ಐತಿಹಾಸಿಕ ಸ್ಥಳಗಳ ಹಿನ್ನೆಲೆ ಮತ್ತು ಮಹತ್ವ.</p></article>
+      <article class="category"><div class="icon">🕊️</div><h3>ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ</h3><p>ಹೋರಾಟಗಾರರು, ಚಳವಳಿಗಳು ಮತ್ತು ತ್ಯಾಗಗಳು.</p></article>
+      <article class="category"><div class="icon">📜</div><h3>ಸಂಸ್ಕೃತಿ & ಪರಂಪರೆ</h3><p>ಭಾಷೆ, ಕಲೆ, ಆಚರಣೆಗಳು ಮತ್ತು ಜನಪದ ಇತಿಹಾಸ.</p></article>
+      <article class="category"><div class="icon">🗓️</div><h3>ಇತಿಹಾಸದ ದಿನಗಳು</h3><p>ಪ್ರಮುಖ ದಿನಾಂಕಗಳು ಮತ್ತು ಅವುಗಳ ಹಿಂದಿನ ಕಥೆ.</p></article>
+    </div>
+  </section>
+
+  <section id="articles">
+    <div class="section-head">
+      <div><h2>History Library</h2><p class="sub">ಆರಂಭಿಕ ಲೇಖನಗಳು — ಮುಂದೆ ನಿಮ್ಮ ಸಂಪೂರ್ಣ ವಿಷಯಗಳನ್ನು ಇಲ್ಲಿ ಸೇರಿಸಬಹುದು.</p></div>
+      <div class="searchbar"><input id="search" type="search" placeholder="Search history / ಇತಿಹಾಸ ಹುಡುಕಿ..." aria-label="Search articles"></div>
+    </div>
+    <div class="articles" id="articleGrid">
+      <article class="article" data-search="ಕರ್ನಾಟಕ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ ಹಂಪಿ">
+        <div class="art-top">🏛️</div><div class="content"><span class="tag">ಕರ್ನಾಟಕ</span><h3>ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯ</h3><p>ದಕ್ಷಿಣ ಭಾರತದ ಇತಿಹಾಸದಲ್ಲಿ ಮಹತ್ವದ ಸ್ಥಾನ ಪಡೆದ ವಿಜಯನಗರದ ಉದಯ, ವೈಭವ ಮತ್ತು ಪರಂಪರೆಯನ್ನು ತಿಳಿಯಿರಿ.</p><a class="read" href="#contact">ಲೇಖನ ಶೀಘ್ರದಲ್ಲೇ →</a></div>
+      </article>
+      <article class="article" data-search="ಭಾರತ ಅಶೋಕ ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ">
+        <div class="art-top">🪷</div><div class="content"><span class="tag">ಭಾರತ</span><h3>ಸಮ್ರಾಟ್ ಅಶೋಕ</h3><p>ಮೌರ್ಯ ಸಾಮ್ರಾಜ್ಯ, ಕಲಿಂಗ ಯುದ್ಧ ಮತ್ತು ಅಶೋಕನ ಧಮ್ಮದ ಕುರಿತು ತಿಳಿದುಕೊಳ್ಳಿ.</p><a class="read" href="#contact">ಲೇಖನ ಶೀಘ್ರದಲ್ಲೇ →</a></div>
+      </article>
+      <article class="article" data-search="ವಿಶ್ವ ಈಜಿಪ್ಟ್ ಪಿರಮಿಡ್ ನಾಗರಿಕತೆ">
+        <div class="art-top">🔺</div><div class="content"><span class="tag">ವಿಶ್ವ ಇತಿಹಾಸ</span><h3>ಪ್ರಾಚೀನ ಈಜಿಪ್ಟ್</h3><p>ನೈಲ್ ನದಿ, ಫರೋಗಳು ಮತ್ತು ಪಿರಮಿಡ್‌ಗಳ ಹಿಂದಿರುವ ಪ್ರಾಚೀನ ನಾಗರಿಕತೆಯ ಪರಿಚಯ.</p><a class="read" href="#contact">ಲೇಖನ ಶೀಘ್ರದಲ್ಲೇ →</a></div>
+      </article>
+      <article class="article" data-search="ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ ಭಾರತ 1947">
+        <div class="art-top">🇮🇳</div><div class="content"><span class="tag">ಸ್ವಾತಂತ್ರ್ಯ</span><h3>ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯ ಹೋರಾಟ</h3><p>ಭಾರತದ ಸ್ವಾತಂತ್ರ್ಯದ ದಾರಿಯಲ್ಲಿ ನಡೆದ ಪ್ರಮುಖ ಚಳವಳಿಗಳು ಮತ್ತು ವ್ಯಕ್ತಿಗಳ ಕಥೆ.</p><a class="read" href="#contact">ಲೇಖನ ಶೀಘ್ರದಲ್ಲೇ →</a></div>
+      </article>
+      <article class="article" data-search="ಕೋಟೆ ಕರ್ನಾಟಕ ಚitradurga ಚಿತ್ರದುರ್ಗ">
+        <div class="art-top">🛡️</div><div class="content"><span class="tag">ಕೋಟೆಗಳು</span><h3>ಚಿತ್ರದುರ್ಗ ಕೋಟೆ</h3><p>ಕಲ್ಲಿನ ಕೋಟೆಯ ವಿನ್ಯಾಸ, ಇತಿಹಾಸ ಮತ್ತು ಸ್ಥಳೀಯ ವೀರಗಾಥೆಗಳ ಪರಿಚಯ.</p><a class="read" href="#contact">ಲೇಖನ ಶೀಘ್ರದಲ್ಲೇ →</a></div>
+      </article>
+      <article class="article" data-search="ಕನ್ನಡ ಭಾಷೆ ಸಂಸ್ಕೃತಿ ಪರಂಪರೆ">
+        <div class="art-top">📚</div><div class="content"><span class="tag">ಸಂಸ್ಕೃತಿ</span><h3>ಕನ್ನಡ ಭಾಷೆಯ ಪರಂಪರೆ</h3><p>ಕನ್ನಡ ಸಾಹಿತ್ಯ, ಶಾಸನಗಳು ಮತ್ತು ಭಾಷೆಯ ಐತಿಹಾಸಿಕ ಬೆಳವಣಿಗೆಯ ಕುರಿತು.</p><a class="read" href="#contact">ಲೇಖನ ಶೀಘ್ರದಲ್ಲೇ →</a></div>
+      </article>
+    </div>
+    <p id="noResults" class="sub hidden">ಹುಡುಕಾಟಕ್ಕೆ ಹೊಂದುವ ಲೇಖನ ಸಿಗಲಿಲ್ಲ.</p>
+  </section>
+
+  <div class="feature">
+    <div class="feature-inner">
+      <div><h2>ಒಂದು Reel — ಇನ್ನಷ್ಟು ಆಳವಾದ ಜ್ಞಾನ</h2><p>ನಿಮ್ಮ ಇತಿಹಾಸದ Reels‌ನಲ್ಲಿ ಕಂಡ ವಿಷಯವನ್ನು ಇಲ್ಲಿ ಸಂಪೂರ್ಣವಾಗಿ ಓದಿ. ಪ್ರತಿಯೊಂದು ಲೇಖನದಲ್ಲೂ ಕಾಲಕ್ರಮ, ಪ್ರಮುಖ ವ್ಯಕ್ತಿಗಳು, ಸ್ಥಳಗಳು, ಆಸಕ್ತಿದಾಯಕ ಸಂಗತಿಗಳು ಮತ್ತು ಮೂಲಗಳ ಮಾಹಿತಿ ಸೇರಿಸಬಹುದು.</p><ul><li>ಸರಳ ಕನ್ನಡದಲ್ಲಿ ವಿವರ</li><li>ವಿಷಯವಾರು ಹುಡುಕಾಟ</li><li>Reels ಮತ್ತು ಲೇಖನಗಳ ಸಂಪರ್ಕ</li></ul></div>
+      <div class="quote">“ಇತಿಹಾಸವನ್ನು ತಿಳಿದವನು ತನ್ನ ಬೇರುಗಳನ್ನು ಅರಿಯುತ್ತಾನೆ; ಬೇರುಗಳನ್ನು ಅರಿತವನು ಭವಿಷ್ಯವನ್ನು ಕಟ್ಟುತ್ತಾನೆ.”<small>— BAS EDUCATION</small></div>
+    </div>
+  </div>
+
+  <section id="about">
+    <div class="section-head"><div><h2>About BAS EDUCATION</h2><p class="sub">ನಮ್ಮ ಉದ್ದೇಶ: ಜ್ಞಾನವನ್ನು ಎಲ್ಲರಿಗೂ ತಲುಪಿಸುವುದು.</p></div></div>
+    <div class="about">
+      <div class="panel"><h3>ನಮ್ಮ ಬಗ್ಗೆ</h3><p>BAS EDUCATION ಒಂದು ಇತಿಹಾಸ ಮತ್ತು ಜ್ಞಾನ ಹಂಚಿಕೊಳ್ಳುವ ಡಿಜಿಟಲ್ ವೇದಿಕೆ. ಕರ್ನಾಟಕ, ಭಾರತ ಹಾಗೂ ವಿಶ್ವದ ಇತಿಹಾಸವನ್ನು ಆಸಕ್ತಿದಾಯಕ ಕಥನಗಳ ಮೂಲಕ ಜನರಿಗೆ ಪರಿಚಯಿಸುವುದು ನಮ್ಮ ಗುರಿ.</p></div>
+      <div class="panel" id="contact"><h3>Connect with us</h3><p>ಇತಿಹಾಸದ ಹೊಸ ಲೇಖನಗಳು ಮತ್ತು Reels‌ಗಾಗಿ ನಮ್ಮ ಸಾಮಾಜಿಕ ಜಾಲತಾಣಗಳನ್ನು ಸಂಪರ್ಕಿಸಿ.</p><p><strong>Instagram:</strong> ನಿಮ್ಮ Instagram ಲಿಂಕ್ ಇಲ್ಲಿ ಸೇರಿಸಿ</p><p><strong>YouTube:</strong> ನಿಮ್ಮ YouTube ಲಿಂಕ್ ಇಲ್ಲಿ ಸೇರಿಸಿ</p><p><strong>Email:</strong> ನಿಮ್ಮ ಇಮೇಲ್ ಇಲ್ಲಿ ಸೇರಿಸಿ</p></div>
+    </div>
+  </section>
+</main>
+<footer><p><strong>BAS EDUCATION</strong></p><p>Discover History. Understand Our Heritage.</p><p>© 2026 BAS EDUCATION · Knowledge with curiosity</p></footer>
+<script>
+const search = document.getElementById('search');
+const cards = [...document.querySelectorAll('.article')];
+search.addEventListener('input', () => {
+  const q = search.value.trim().toLowerCase();
+  let shown = 0;
+  cards.forEach(card => {
+    const match = (card.innerText + ' ' + card.dataset.search).toLowerCase().includes(q);
+    card.classList.toggle('hidden', !match);
+    if(match) shown++;
+  });
+  document.getElementById('noResults').classList.toggle('hidden', shown !== 0);
+});
+</script>
+</body>
+</html>
