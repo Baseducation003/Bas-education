@@ -35,6 +35,9 @@ h2{font-size:clamp(1.6rem,3vw,2.3rem);margin:0;color:var(--navy)}.sub{color:var(
 footer{background:var(--navy);color:#dce4f3;padding:30px 22px;text-align:center}footer strong{color:var(--gold)}footer p{margin:6px}
 .hidden{display:none!important}
 @media(max-width:700px){.hero{padding:58px 20px}.feature-inner,.about{grid-template-columns:1fr}.nav{justify-content:center}nav{justify-content:center;gap:12px}.section-head{align-items:stretch}}
+
+.notify-box{max-width:1100px;margin:20px auto 0;padding:26px 22px;background:#fff;border:1px solid #e8ebf2;border-radius:16px;display:flex;gap:18px;align-items:center;justify-content:space-between;flex-wrap:wrap;box-shadow:0 8px 25px #10204008}
+.notify-box h2{font-size:1.45rem}.notify-actions{display:flex;gap:10px;flex-wrap:wrap}.notify-btn{border:0;cursor:pointer;background:var(--navy);color:white;padding:12px 17px;border-radius:9px;font:inherit;font-weight:800;text-decoration:none}.notify-btn.gold{background:var(--gold);color:#17213a}.notify-note{font-size:.88rem;color:var(--muted);width:100%;margin:0}
 </style>
 </head>
 <body>
@@ -55,6 +58,14 @@ footer{background:var(--navy);color:#dce4f3;padding:30px 22px;text-align:center}
       <a class="btn" href="#topics">Explore History / ಇತಿಹಾಸ ಓದಿ</a>
     </div>
   </div>
+
+  <section aria-label="Notifications" style="padding-top:28px;padding-bottom:0">
+    <div class="notify-box">
+      <div><h2>ಹೊಸ ಇತಿಹಾಸ ಲೇಖನಗಳ ಮಾಹಿತಿ ಪಡೆಯಿರಿ</h2><p class="sub">BAS EDUCATION ಪ್ರಕಟಿಸುವ ಹೊಸ ಲೇಖನಗಳ ಅಧಿಸೂಚನೆ ಪಡೆಯಲು ನೋಂದಾಯಿಸಿಕೊಳ್ಳಿ.</p></div>
+      <div class="notify-actions"><button class="notify-btn gold" id="subscribePush" type="button">🔔 ಅಧಿಸೂಚನೆ ಪಡೆಯಿರಿ</button><a class="notify-btn" id="whatsappChannel" href="#" target="_blank" rel="noopener">WhatsApp Channel</a></div>
+      <p class="notify-note" id="notifyStatus" aria-live="polite">ಅಧಿಸೂಚನೆ ಪಡೆಯಲು ಬಟನ್ ಒತ್ತಿ. ನಿಮ್ಮ ಅನುಮತಿ ಕೇಳಿದಾಗ Allow ಆಯ್ಕೆಮಾಡಿ.</p>
+    </div>
+  </section>
 
   <section id="topics">
     <div class="section-head">
@@ -130,5 +141,33 @@ search.addEventListener('input', () => {
   document.getElementById('noResults').classList.toggle('hidden', shown !== 0);
 });
 </script>
+
+<!-- OneSignal Web Push: replace YOUR_ONESIGNAL_APP_ID after creating the app in OneSignal. -->
+<script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+<script>
+  // SETUP REQUIRED: paste your OneSignal App ID below and your WhatsApp Channel URL below.
+  const ONESIGNAL_APP_ID = "YOUR_ONESIGNAL_APP_ID";
+  const WHATSAPP_CHANNEL_URL = "YOUR_WHATSAPP_CHANNEL_URL";
+  const channelLink = document.getElementById('whatsappChannel');
+  if (WHATSAPP_CHANNEL_URL.startsWith('https://')) channelLink.href = WHATSAPP_CHANNEL_URL;
+  else { channelLink.href = 'https://whatsapp.com/channel/'; channelLink.addEventListener('click', e => { if (!WHATSAPP_CHANNEL_URL.startsWith('https://')) { e.preventDefault(); alert('WhatsApp Channel URL ಸೇರಿಸಿದ ನಂತರ ಈ ಬಟನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.'); } }); }
+  const statusEl = document.getElementById('notifyStatus');
+  const subscribeBtn = document.getElementById('subscribePush');
+  if (ONESIGNAL_APP_ID !== 'YOUR_ONESIGNAL_APP_ID') {
+    window.OneSignalDeferred = window.OneSignalDeferred || [];
+    window.OneSignalDeferred.push(async function(OneSignal) {
+      await OneSignal.init({ appId: ONESIGNAL_APP_ID });
+      subscribeBtn.addEventListener('click', async () => {
+        await OneSignal.Slidedown.promptPush();
+        statusEl.textContent = 'ನಿಮ್ಮ ಅಧಿಸೂಚನೆ ಆಯ್ಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ. ಧನ್ಯವಾದಗಳು!';
+      });
+    });
+  } else {
+    subscribeBtn.addEventListener('click', () => {
+      statusEl.textContent = 'Push Notification ಸಕ್ರಿಯಗೊಳಿಸಲು BAS EDUCATION ಮಾಲೀಕರು OneSignal App ID ಸೇರಿಸಬೇಕು. ಇನ್ನೂ ಸೆಟಪ್ ಪೂರ್ಣಗೊಂಡಿಲ್ಲ.';
+    });
+  }
+</script>
+
 </body>
 </html>
