@@ -153,7 +153,7 @@ search.addEventListener('input', () => {
   else { channelLink.href = 'https://whatsapp.com/channel/'; channelLink.addEventListener('click', e => { if (!WHATSAPP_CHANNEL_URL.startsWith('https://')) { e.preventDefault(); alert('WhatsApp Channel URL ಸೇರಿಸಿದ ನಂತರ ಈ ಬಟನ್ ಕೆಲಸ ಮಾಡುತ್ತದೆ.'); } }); }
   const statusEl = document.getElementById('notifyStatus');
   const subscribeBtn = document.getElementById('subscribePush');
-  if (ONESIGNAL_APP_ID !== 'YOUR_ONESIGNAL_APP_ID') {
+  if (ONESIGNAL_APP_ID !== '45ebadb6-0ac5-4ec4-8e48-de46026956af') {
     window.OneSignalDeferred = window.OneSignalDeferred || [];
     window.OneSignalDeferred.push(async function(OneSignal) {
       await OneSignal.init({ appId: ONESIGNAL_APP_ID });
