@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="kn">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಸಂಪೂರ್ಣ ಕನ್ನಡ ಇತಿಹಾಸ, ಏಳು ಸುತ್ತಿನ ಕೋಟೆ, ನಾಯಕರು, ಮದಕರಿ ನಾಯಕ, ಒನಕೆ ಓಬವ್ವ ಮತ್ತು ವಾಸ್ತುಶಿಲ್ಪದ ಮಾಹಿತಿ - BAS EDUCATION.">
+<title>ಚಿತ್ತದುರ್ಗ ಕೋಟೆ | BAS EDUCATION</title>
+<style>
+:root{--ink:#202633;--muted:#5c6575;--gold:#c58a25;--paper:#fffdf8;--line:#e9e2d5;--green:#234b3b}
+*{box-sizing:border-box}body{margin:0;background:#f5f2eb;color:var(--ink);font-family:system-ui,-apple-system,"Noto Sans Kannada",sans-serif;line-height:1.85}
+header{background:linear-gradient(135deg,#173e32,#28614b);color:white;padding:22px 16px;text-align:center}header .brand{font-size:14px;letter-spacing:2px;font-weight:800;color:#f2c66d}header h1{margin:8px 0;font-size:clamp(27px,5vw,42px);line-height:1.4}header p{margin:0;color:#e8eee9}
+nav{background:#fff;border-bottom:1px solid var(--line);padding:10px 16px;text-align:center;font-size:14px}nav a{color:var(--green);text-decoration:none;font-weight:700;margin:0 7px}
+main{max-width:900px;margin:24px auto;padding:0 15px}.hero{background:#fff;border-radius:16px;overflow:hidden;border:1px solid var(--line);box-shadow:0 6px 22px #2026330c}.hero img{width:100%;max-height:420px;object-fit:cover;display:block}.hero .intro{padding:20px}.tag{display:inline-block;background:#f8edd7;color:#76500f;border-radius:30px;padding:3px 12px;font-size:13px;font-weight:700}
+article{background:#fff;margin-top:18px;padding:clamp(18px,4vw,32px);border:1px solid var(--line);border-radius:16px}h2{color:var(--green);font-size:23px;border-bottom:2px solid #ead9b5;padding-bottom:8px;margin-top:30px}h2:first-child{margin-top:0}h3{color:#725018;font-size:19px}p{margin:12px 0}.factbox{background:#f8f4e9;border-left:4px solid var(--gold);padding:14px 17px;border-radius:8px;margin:18px 0}.timeline{border-left:3px solid #d8b15b;margin:15px 0 15px 8px;padding-left:20px}.timeline p{position:relative}.timeline p:before{content:"";position:absolute;left:-27px;top:10px;width:11px;height:11px;background:#c58a25;border-radius:50%}ul{padding-left:24px}li{margin:7px 0}.note{color:var(--muted);font-size:14px}.sources a{color:#176b58;overflow-wrap:anywhere}.footer{margin:20px 0 35px;text-align:center;color:var(--muted);font-size:13px}
+.photo-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px;margin:20px 0}.photo-grid figure,.story-photo{margin:0;background:#f8f4e9;border:1px solid var(--line);border-radius:12px;overflow:hidden}.photo-grid img,.story-photo img{width:100%;height:220px;object-fit:cover;display:block}.photo-grid figcaption,.story-photo figcaption{padding:10px 12px;font-size:13px;color:var(--muted);line-height:1.55}.photo-grid figcaption a,.story-photo figcaption a{color:#176b58}.btn{display:inline-block;background:var(--green);color:white;text-decoration:none;padding:10px 16px;border-radius:9px;font-weight:700}
+@media print{body{background:white}nav,.btn{display:none}article,.hero{box-shadow:none}}
+</style>
+</head>
+<body>
+<header><div class="brand">BAS EDUCATION</div><h1>ಚಿತ್ತದುರ್ಗ ಕೋಟೆ</h1><p>ಕರ್ನಾಟಕದ ಶೌರ್ಯ, ವಾಸ್ತುಶಿಲ್ಪ ಮತ್ತು ಇತಿಹಾಸದ ಕಲ್ಲಿನ ಸಾಕ್ಷಿ</p></header>
+<nav><a href="../index.html">ಮುಖ್ಯ ಪುಟ</a> · <a href="../index.html#forts">ಕೋಟೆಗಳು ಮತ್ತು ಸ್ಮಾರಕಗಳು</a></nav>
+<main>
+<section class="hero">
+<!-- ನಿಮ್ಮ GitHub articles/images ಫೋಲ್ಡರ್‌ಗೆ ಚಿತ್ರವನ್ನು ಸೇರಿಸಿ; ಕೆಳಗಿನ src ಅನ್ನು ಅದರ ನಿಜವಾದ ಫೈಲ್ ಹೆಸರಿನಿಂದ ಬದಲಿಸಿ -->
+<img src="../images/chitradurga-fort.jpg" alt="ಚಿತ್ತದುರ್ಗದ ಬಂಡೆಗಳ ನಡುವೆ ಇರುವ ಐತಿಹಾಸಿಕ ಕೋಟೆ" onerror="this.style.display='none'">
+<div class="intro"><span class="tag">ಕೋಟೆಗಳು ಮತ್ತು ಐತಿಹಾಸಿಕ ಸ್ಮಾರಕಗಳು</span><p><strong>ಸ್ಥಳ:</strong> ಚಿತ್ತದುರ್ಗ, ಕರ್ನಾಟಕ</p><p>ಚಿತ್ತದುರ್ಗ ಕೋಟೆ—ಸ್ಥಳೀಯವಾಗಿ <strong>ಕಲ್ಲಿನ ಕೋಟೆ</strong> ಮತ್ತು <strong>ಏಳು ಸುತ್ತಿನ ಕೋಟೆ</strong> ಎಂದು ಪ್ರಸಿದ್ಧ—ಬೃಹತ್ ಗ್ರಾನೈಟ್ ಬಂಡೆಗಳ ಮೇಲೆ ನಿರ್ಮಿಸಲಾದ ವಿಶಾಲವಾದ ಬೆಟ್ಟದ ಕೋಟೆಯಾಗಿದೆ. ಇದು ಕರ್ನಾಟಕದ ಇತಿಹಾಸದಲ್ಲಿ ನಾಯಕ ವಂಶದ ಆಡಳಿತ, ಯುದ್ಧತಂತ್ರ ಮತ್ತು ಜನಪದ ಸ್ಮೃತಿಗಳಿಗೆ ವಿಶೇಷ ಸ್ಥಾನ ಹೊಂದಿದೆ.</p></div>
+</section>
+<section aria-label="ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಚಿತ್ರಗಳು" class="photo-grid">
+<figure><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Chitradurga_fort_Image_%281%29%2C_Karnataka%2C_India.jpg" alt="ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಕಲ್ಲಿನ ಗೋಡೆಗಳು ಮತ್ತು ಬಂಡೆಗಳು"><figcaption>ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಕಲ್ಲಿನ ರಚನೆ. ಚಿತ್ರ: <a href="https://commons.wikimedia.org/wiki/File:Chitradurga_fort_Image_(1),_Karnataka,_India.jpg" target="_blank" rel="noopener">Gpkp / Wikimedia Commons</a> (CC BY-SA 4.0)</figcaption></figure>
+<figure><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/1_of_7_concentric_walled_layers_of_Chitradurga_fort.jpg" alt="ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಏಳು ಸುತ್ತಿನ ರಕ್ಷಣಾ ಗೋಡೆಗಳಲ್ಲಿ ಒಂದು"><figcaption>ಕೋಟೆಯ ಸುತ್ತುವರಿದ ರಕ್ಷಣಾ ಗೋಡೆಗಳ ನೋಟ. ಚಿತ್ರ: <a href="https://commons.wikimedia.org/wiki/Category:Chitradurga_Fort" target="_blank" rel="noopener">Wikimedia Commons</a> (ಚಿತ್ರದ ಪರವಾನಗಿ ಮೂಲ ಪುಟದಲ್ಲಿ)</figcaption></figure>
+<figure><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Onake_Obavvana_Kindi%2C_Chitradurga_fort_Image_%2821%29%2C_Karnataka%2C_India.jpg" alt="ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಒನಕೆ ಓಬವ್ವನ ಕಿಂಡಿ"><figcaption>ಒನಕೆ ಓಬವ್ವನ ಕಿಂಡಿ. ಚಿತ್ರ: <a href="https://commons.wikimedia.org/wiki/File:Onake_Obavvana_Kindi,_Chitradurga_fort_Image_(21),_Karnataka,_India.jpg" target="_blank" rel="noopener">Gpkp / Wikimedia Commons</a> (CC BY-SA 4.0)</figcaption></figure>
+</section>
+<article>
+<h2>1. ಚಿತ್ತದುರ್ಗ ಎಂಬ ಹೆಸರಿನ ಅರ್ಥ</h2>
+<p>ಚಿತ್ತದುರ್ಗ ಎಂಬ ಹೆಸರನ್ನು ಸಾಮಾನ್ಯವಾಗಿ “ಚಿತ್ರಕಲಾದುರ್ಗ” ಅಥವಾ “ಸುಂದರವಾದ ಕೋಟೆ” ಎಂಬ ಅರ್ಥದೊಂದಿಗೆ ವಿವರಿಸಲಾಗುತ್ತದೆ. ಸುತ್ತಲಿನ ಬಂಡೆಗಳು, ಬೆಟ್ಟಗಳು ಮತ್ತು ಕಣಿವೆಗಳ ದೃಶ್ಯವೇ ಈ ಹೆಸರಿನ ಸೌಂದರ್ಯವನ್ನು ನೆನಪಿಸುತ್ತದೆ. ಕೋಟೆ ಮತ್ತು ನಗರವು ಕರ್ನಾಟಕದ ಮಧ್ಯಭಾಗದಲ್ಲಿರುವ ಚಿತ್ತದುರ್ಗ ಜಿಲ್ಲೆಯಲ್ಲಿ ನೆಲೆಗೊಂಡಿವೆ.</p>
+<h2>2. ಪ್ರಾಚೀನ ಇತಿಹಾಸದ ಹಿನ್ನೆಲೆ</h2>
+<p>ಚಿತ್ತದುರ್ಗ ಜಿಲ್ಲೆಯ ಇತಿಹಾಸವು ಬಹಳ ಪ್ರಾಚೀನವಾಗಿದೆ. ಜಿಲ್ಲೆಯ ವಿವಿಧ ಭಾಗಗಳಲ್ಲಿ ದೊರೆತ ಪುರಾತತ್ವ ಅವಶೇಷಗಳು ಮತ್ತು ಮೊಳಕಾಲ್ಮೂರು ಭಾಗದ ಅಶೋಕನ ಶಿಲಾಶಾಸನಗಳು ಈ ಪ್ರದೇಶವು ಪ್ರಾಚೀನ ಕಾಲದಲ್ಲಿಯೇ ಮಹತ್ವ ಹೊಂದಿದ್ದುದನ್ನು ಸೂಚಿಸುತ್ತವೆ. ಮೌರ್ಯರು, ಶಾತವಾಹನರು, ಕದಂಬರು, ಚಾಲುಕ್ಯರು, ರಾಷ್ಟ್ರಕೂಟರು, ಹೊಯ್ಸಳರು ಮತ್ತು ವಿಜಯನಗರದಂತಹ ರಾಜವಂಶಗಳ ಪ್ರಭಾವ ಈ ವಿಶಾಲ ಪ್ರದೇಶದ ಇತಿಹಾಸದಲ್ಲಿ ಕಂಡುಬರುತ್ತದೆ.</p>
+<p>ಆದರೆ ಇಂದಿನ ಕೋಟೆಯ ರಾಜಕೀಯ ಮತ್ತು ಸೈನಿಕ ಮಹತ್ವವು ವಿಶೇಷವಾಗಿ ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಕಾಲದಿಂದ ಹಾಗೂ ಅದರ ನಂತರದ ಚಿತ್ತದುರ್ಗದ ನಾಯಕರ ಆಡಳಿತದಲ್ಲಿ ಹೆಚ್ಚಾಯಿತು.</p>
+<h2>3. ಚಿತ್ತದುರ್ಗದ ನಾಯಕರು ಮತ್ತು ಕೋಟೆಯ ಬೆಳವಣಿಗೆ</h2>
+<p>ಚಿತ್ತದುರ್ಗದ ನಾಯಕರು ಅಥವಾ ಪಾಳೆಯಗಾರರು ವಿಜಯನಗರ ಸಾಮ್ರಾಜ್ಯದ ಅಧೀನದಲ್ಲಿ ಸ್ಥಳೀಯ ಆಡಳಿತ ನಡೆಸಿದ ಪ್ರಮುಖ ನಾಯಕ ವಂಶವಾಗಿದ್ದರು. ಕಾಲಕ್ರಮೇಣ ಅವರು ತಮ್ಮ ಅಧಿಕಾರವನ್ನು ಬಲಪಡಿಸಿ, ಕೋಟೆಯನ್ನು ತಮ್ಮ ಆಡಳಿತದ ಕೇಂದ್ರವನ್ನಾಗಿ ಮಾಡಿಕೊಂಡರು.</p>
+<p>ಸರ್ಕಾರಿ ಜಿಲ್ಲಾ ಇತಿಹಾಸದ ಪ್ರಕಾರ, ತಿಮ್ಮಣ್ಣ ನಾಯಕನಿಗೆ ವಿಜಯನಗರ ಆಡಳಿತದಿಂದ ಚಿತ್ತದುರ್ಗದ ಆಡಳಿತದ ಜವಾಬ್ದಾರಿ ದೊರಕಿದ್ದು, ನಂತರದ ನಾಯಕರು ಕೋಟೆ ಮತ್ತು ರಾಜ್ಯವನ್ನು ಬಲಪಡಿಸಿದರು. ಈ ವಂಶದ ಹಲವು ಆಡಳಿತಗಾರರು ಕೋಟೆಯ ವಿಸ್ತರಣೆ, ದೇವಾಲಯಗಳ ನಿರ್ಮಾಣ, ಕೆರೆ-ಕಟ್ಟೆಗಳ ವ್ಯವಸ್ಥೆ ಮತ್ತು ರಕ್ಷಣಾ ಸಿದ್ಧತೆಗಳಿಗೆ ಕೊಡುಗೆ ನೀಡಿದರು.</p>
+<div class="factbox"><strong>ಗಮನಿಸಿ:</strong> ಕೋಟೆಯ ನಿರ್ಮಾಣವು ಒಂದೇ ರಾಜನ ಕಾಲದಲ್ಲಿ ಪೂರ್ಣಗೊಂಡದ್ದಲ್ಲ. ಹಲವು ಶತಮಾನಗಳಲ್ಲಿ ವಿವಿಧ ಆಡಳಿತಗಾರರು ಕೋಟೆಯನ್ನು ನಿರ್ಮಿಸಿ, ವಿಸ್ತರಿಸಿ, ಬಲಪಡಿಸಿದ್ದಾರೆ.</div>
+<h2>4. ಮದಕರಿ ನಾಯಕರು</h2>
+<p>ಚಿತ್ತದುರ್ಗದ ನಾಯಕರಲ್ಲಿ ಮದಕರಿ ನಾಯಕರು ವಿಶೇಷವಾಗಿ ಜನಪ್ರಿಯರಾಗಿದ್ದಾರೆ. “ಮದಕರಿ ನಾಯಕ” ಎಂಬ ಹೆಸರು ಈ ಪ್ರದೇಶದ ಇತಿಹಾಸ ಮತ್ತು ಜನಪದ ಪರಂಪರೆಯಲ್ಲಿ ಹಲವು ಆಡಳಿತಗಾರರಿಗೆ ಸಂಬಂಧಿಸಿದೆ. ಕೊನೆಯ ನಾಯಕ ಮದಕರಿ ನಾಯಕ V ಅವರ ಆಡಳಿತದ ಅಂತ್ಯವು ಚಿತ್ತದುರ್ಗದ ಸ್ವತಂತ್ರ ನಾಯಕ ಆಡಳಿತದ ಪ್ರಮುಖ ತಿರುವಾಗಿತ್ತು.</p>
+<p>ನಾಯಕರು ಕೋಟೆಯ ರಕ್ಷಣೆಯನ್ನು ಬಲಪಡಿಸಿ, ಸೈನಿಕರಿಗಾಗಿ ವ್ಯವಸ್ಥೆಗಳನ್ನು ನಿರ್ಮಿಸಿ, ನೀರು ಮತ್ತು ಆಹಾರ ಸಂಗ್ರಹಕ್ಕೆ ಅಗತ್ಯವಾದ ಸೌಲಭ್ಯಗಳನ್ನು ಅಭಿವೃದ್ಧಿಪಡಿಸಿದರು. ಅವರ ಕಾಲದ ಕೋಟೆಯ ಅವಶೇಷಗಳು ಆ ಕಾಲದ ಸೈನಿಕ ಯೋಜನೆ ಮತ್ತು ಆಡಳಿತ ಸಾಮರ್ಥ್ಯವನ್ನು ತೋರಿಸುತ್ತವೆ.</p>
+<h2>5. ಹೈದರಾಲಿ ಮತ್ತು ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಕಾಲ</h2>
+<p>ಕ್ರಿ.ಶ. 1779ರಲ್ಲಿ ಮೈಸೂರು ರಾಜ್ಯದ ಹೈದರಾಲಿ ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು. ಈ ಘಟನೆಯೊಂದಿಗೆ ಚಿತ್ತದುರ್ಗದ ನಾಯಕ ವಂಶದ ಆಡಳಿತಕ್ಕೆ ಅಂತ್ಯವಾಯಿತು. ಹೈದರಾಲಿ ಮತ್ತು ಅವರ ಮಗ ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಕಾಲದಲ್ಲಿ ಕೋಟೆಯ ಕೆಲವು ಭಾಗಗಳನ್ನು ಇನ್ನಷ್ಟು ಬಲಪಡಿಸಲಾಯಿತು. ನಂತರ ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಸೋಲಿನ ಬಳಿಕ ಕೋಟೆ ಮೈಸೂರು ಅರಸರ ಆಡಳಿತಕ್ಕೆ ಸೇರಿತು.</p>
+<div class="timeline"><p><strong>ವಿಜಯನಗರ ಕಾಲ:</strong> ಚಿತ್ತದುರ್ಗ ಪ್ರದೇಶದಲ್ಲಿ ನಾಯಕ ಆಡಳಿತದ ಪ್ರಭಾವ ಬೆಳೆಯಿತು.</p><p><strong>16ನೇ–18ನೇ ಶತಮಾನಗಳು:</strong> ಚಿತ್ತದುರ್ಗದ ನಾಯಕರು ಕೋಟೆಯನ್ನು ತಮ್ಮ ಪ್ರಮುಖ ಆಡಳಿತ ಮತ್ತು ರಕ್ಷಣಾ ಕೇಂದ್ರವನ್ನಾಗಿ ಬಳಸಿದರು.</p><p><strong>1779:</strong> ಹೈದರಾಲಿ ಕೋಟೆಯನ್ನು ವಶಪಡಿಸಿಕೊಂಡರು.</p><p><strong>ನಂತರ:</strong> ಟಿಪ್ಪು ಸುಲ್ತಾನರ ಕಾಲದ ಬಳಿಕ ಕೋಟೆ ಮೈಸೂರು ಅರಸರ ಆಡಳಿತಕ್ಕೆ ಸೇರಿತು.</p></div>
+<h2>6. ಏಳು ಸುತ್ತಿನ ಕೋಟೆಯ ವಿಶೇಷತೆ</h2>
+<p>ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಅತ್ಯಂತ ಗಮನಾರ್ಹ ಲಕ್ಷಣವೆಂದರೆ ಅದರ ಏಳು ಸುತ್ತಿನ ರಕ್ಷಣಾ ಪ್ರಾಕಾರಗಳು. ಇದನ್ನು ಕನ್ನಡದಲ್ಲಿ “ಏಳು ಸುತ್ತಿನ ಕೋಟೆ” ಎಂದು ಕರೆಯುತ್ತಾರೆ. ಕೋಟೆಯ ರಚನೆಯು ಬೆಟ್ಟದ ಸಹಜ ಭೂಪ್ರದೇಶವನ್ನು ಬಳಸಿಕೊಂಡು ಶತ್ರುಗಳ ಪ್ರವೇಶವನ್ನು ಕಷ್ಟಕರವಾಗುವಂತೆ ಮಾಡಲಾಗಿದೆ.</p>
+<ul><li>ಏಳು ಹಂತಗಳ ರಕ್ಷಣಾ ಗೋಡೆಗಳು ಮತ್ತು ಪ್ರಾಕಾರಗಳು.</li><li>ತಿರುವು-ಮುರುವುಗಳಿರುವ ಪ್ರವೇಶ ಮಾರ್ಗಗಳು; ನೇರವಾಗಿ ಒಳನುಗ್ಗುವುದನ್ನು ತಡೆಯುವ ವಿನ್ಯಾಸ.</li><li>ಕಾವಲು ಗೋಪುರಗಳು, ಕಿರಿದಾದ ದಾರಿಗಳು ಮತ್ತು ಕಾವಲು ಕಿಂಡಿಗಳು.</li><li>ಹಳೆಯ ದಾಖಲೆಗಳಲ್ಲಿ 19 ಮುಖ್ಯ ಬಾಗಿಲುಗಳು, 38 ಉಪಪ್ರವೇಶಗಳು ಮತ್ತು 35 ಕಾವಲು/ರಹಸ್ಯ ತೆರವುಗಳ ಉಲ್ಲೇಖಗಳಿವೆ; ಇವುಗಳಲ್ಲಿ ಎಲ್ಲವೂ ಇಂದು ಬಳಕೆಯಲ್ಲಿಲ್ಲ.</li><li>ಬೆಟ್ಟದ ಕಲ್ಲುಗಳನ್ನು ಬಳಸಿದ ಬಲಿಷ್ಠ ಕೋಟೆಗೋಡೆಗಳು.</li></ul>
+<h2>7. ಕೋಟೆಯ ನೀರಿನ ಸಂಗ್ರಹ ವ್ಯವಸ್ಥೆ</h2>
+<p>ಬೆಟ್ಟದ ಕೋಟೆಯೊಂದಕ್ಕೆ ನೀರು ಅತ್ಯಂತ ಮುಖ್ಯ. ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯಲ್ಲಿ ಮಳೆನೀರನ್ನು ಸಂಗ್ರಹಿಸಲು ನೈಸರ್ಗಿಕ ಕುಳಿಗಳು, ಕಲ್ಲಿನಲ್ಲಿ ನಿರ್ಮಿಸಿದ ಹೊಂಡಗಳು ಮತ್ತು ನೀರಿನ ಕೆರೆಗಳ ವ್ಯವಸ್ಥೆ ಇತ್ತು. ದೀರ್ಘಕಾಲ ಶತ್ರುಗಳು ಕೋಟೆಯನ್ನು ಮುತ್ತಿಗೆ ಹಾಕಿದರೂ ನೀರಿನ ಕೊರತೆಯನ್ನು ಕಡಿಮೆ ಮಾಡಲು ಈ ವ್ಯವಸ್ಥೆಗಳು ನೆರವಾಗುತ್ತಿದ್ದವು.</p>
+<p>ಅಕ್ಕ-ತಂಗಿಯರ ಹೊಂಡ ಸೇರಿದಂತೆ ಕೋಟೆಯೊಳಗಿನ ಜಲಸಂಗ್ರಹ ಸ್ಥಳಗಳು ಇಂದಿಗೂ ಪ್ರವಾಸಿಗರ ಗಮನ ಸೆಳೆಯುತ್ತವೆ. ಈ ವ್ಯವಸ್ಥೆ ಆ ಕಾಲದ ನೀರು ನಿರ್ವಹಣಾ ಜ್ಞಾನಕ್ಕೆ ಸಾಕ್ಷಿಯಾಗಿದೆ.</p>
+<h2>8. ಒನಕೆ ಓಬವ್ವ—ಧೈರ್ಯದ ಸಂಕೇತ</h2>
+<figure class="story-photo"><img loading="lazy" src="https://commons.wikimedia.org/wiki/Special:FilePath/Onake_Obavvana_Kindi.jpg" alt="ಒನಕೆ ಓಬವ್ವನ ಕಿಂಡಿ ಎಂದು ಪ್ರಸಿದ್ಧವಾದ ಕೋಟೆಯ ಕಿರಿದಾದ ದಾರಿ"><figcaption>ಒನಕೆ ಓಬವ್ವನ ಕಿಂಡಿ ಎಂದು ಗುರುತಿಸಲಾದ ಸ್ಥಳ. ಚಿತ್ರ: <a href="https://commons.wikimedia.org/wiki/File:Onake_Obavvana_Kindi.jpg" target="_blank" rel="noopener">Basavaraj M / Wikimedia Commons</a> (CC BY-SA 4.0)</figcaption></figure>
+<p>ಚಿತ್ತದುರ್ಗದ ಇತಿಹಾಸದಲ್ಲಿ ಒನಕೆ ಓಬವ್ವನ ಹೆಸರು ಅತ್ಯಂತ ಗೌರವದಿಂದ ಸ್ಮರಿಸಲಾಗುತ್ತದೆ. ಜನಪ್ರಿಯ ಕಥೆಯ ಪ್ರಕಾರ, ಕೋಟೆಯ ಗೋಡೆಯಲ್ಲಿದ್ದ ಕಿರಿದಾದ ಕಿಂಡಿಯ ಮೂಲಕ ಶತ್ರು ಸೈನಿಕರು ಒಳನುಗ್ಗಲು ಪ್ರಯತ್ನಿಸಿದಾಗ, ಓಬವ್ವ ಒನಕೆಯನ್ನು ಬಳಸಿ ಅವರನ್ನು ತಡೆದರು. ಅವರ ಸಾಹಸವು ಕೋಟೆಯ ರಕ್ಷಣೆಯಲ್ಲಿ ಮಹತ್ವದ ಪಾತ್ರ ವಹಿಸಿತು ಎಂದು ಸ್ಥಳೀಯ ಪರಂಪರೆ ಹೇಳುತ್ತದೆ.</p>
+<p>ಈ ಘಟನೆಯ ನೆನಪಿಗಾಗಿ ಆ ಸ್ಥಳವನ್ನು <strong>ಒನಕೆ ಓಬವ್ವನ ಕಿಂಡಿ</strong> ಎಂದು ಕರೆಯಲಾಗುತ್ತದೆ. ಓಬವ್ವನ ಕಥೆ ಕರ್ನಾಟಕದ ಜನಪದ ಸ್ಮೃತಿಯಲ್ಲಿ ಮಹಿಳಾ ಧೈರ್ಯ, ತಕ್ಷಣದ ನಿರ್ಧಾರ ಮತ್ತು ಸ್ವಾಭಿಮಾನಕ್ಕೆ ಪ್ರತೀಕವಾಗಿದೆ.</p>
+<div class="factbox"><strong>ಇತಿಹಾಸ ಮತ್ತು ಜನಪದ:</strong> ಓಬವ್ವನ ಸಾಹಸದ ವಿವರಗಳು ಮುಖ್ಯವಾಗಿ ಸ್ಥಳೀಯ ಐತಿಹ್ಯ ಮತ್ತು ಜನಪ್ರಿಯ ಇತಿಹಾಸ ನಿರೂಪಣೆಗಳಲ್ಲಿ ಉಳಿದಿವೆ. ಕಥೆಯ ಜನಪದ ರೂಪವನ್ನು ಗೌರವಿಸುವುದರ ಜೊತೆಗೆ, ಅದರ ವಿವರಗಳನ್ನು ಮೂಲ ದಾಖಲೆಗಳೊಂದಿಗೆ ಪರಿಶೀಲಿಸುವುದು ಉತ್ತಮ.</div>
+<h2>9. ಕೋಟೆಯೊಳಗಿನ ದೇವಾಲಯಗಳು ಮತ್ತು ಸ್ಮಾರಕಗಳು</h2>
+<p>ಕೋಟೆಯೊಳಗೆ ಹಲವು ಪ್ರಾಚೀನ ದೇವಾಲಯಗಳು ಮತ್ತು ಸ್ಮಾರಕಗಳಿವೆ. ಅವುಗಳಲ್ಲಿ ಪ್ರಮುಖವಾದವು:</p>
+<ul><li>ಹಿಡಿಂಬೇಶ್ವರ ದೇವಾಲಯ</li><li>ಸಂಪಿಗೆ ಸಿದ್ಧೇಶ್ವರ ದೇವಾಲಯ</li><li>ಫಾಲ್ಗುಣೇಶ್ವರ ದೇವಾಲಯ</li><li>ಏಕನಾಥೇಶ್ವರಿ ದೇವಾಲಯ</li><li>ಗೋಪಾಲಕೃಷ್ಣ ದೇವಾಲಯ</li></ul>
+<p>ಇವುಗಳ ಜೊತೆಗೆ ಹಳೆಯ ಅರಮನೆಯ ಅವಶೇಷಗಳು, ಧಾನ್ಯ ಸಂಗ್ರಹಣಾ ಕಟ್ಟಡಗಳು, ಎಣ್ಣೆ ಸಂಗ್ರಹ ಟ್ಯಾಂಕ್‌ಗಳು, ಬೃಹತ್ ರುಬ್ಬುವ ಕಲ್ಲುಗಳು, ಸೈನಿಕರ ಬಳಕೆಯ ಸ್ಥಳಗಳು ಮತ್ತು ಕಾವಲು ಗೋಪುರಗಳ ಅವಶೇಷಗಳನ್ನೂ ಕಾಣಬಹುದು.</p>
+<h2>10. ಹಿಡಿಂಬಾಸುರನ ಕಥೆ—ಪುರಾಣ ಮತ್ತು ಸ್ಥಳೀಯ ನಂಬಿಕೆ</h2>
+<p>ಮಹಾಭಾರತದ ಜನಪ್ರಿಯ ಕಥೆಯೊಂದರ ಪ್ರಕಾರ, ಈ ಬೆಟ್ಟದ ಪ್ರದೇಶದಲ್ಲಿ ಹಿಡಿಂಬಾಸುರ ಎಂಬ ರಾಕ್ಷಸ ವಾಸಿಸುತ್ತಿದ್ದನು. ಪಾಂಡವರು ವನವಾಸದ ಸಂದರ್ಭದಲ್ಲಿ ಭೀಮನೊಂದಿಗೆ ಅವನ ಯುದ್ಧ ನಡೆದಿತ್ತೆಂದು ಸ್ಥಳೀಯ ಐತಿಹ್ಯ ಹೇಳುತ್ತದೆ. ಈ ಕಥೆಯನ್ನು ಕೋಟೆಯ ಬಂಡೆಗಳೊಂದಿಗೆ ಸಂಪರ್ಕಿಸಿ ಜನರು ವಿವರಿಸುತ್ತಾರೆ.</p>
+<p class="note">ಇದು ಪೌರಾಣಿಕ/ಜನಪದ ಪರಂಪರೆಯ ಭಾಗ; ಪುರಾತತ್ವದಿಂದ ದೃಢಪಟ್ಟ ಕೋಟೆಯ ನಿರ್ಮಾಣ ಇತಿಹಾಸವೆಂದು ಇದನ್ನು ಪರಿಗಣಿಸಬಾರದು.</p>
+<h2>11. ಚಿತ್ತದುರ್ಗ ಕೋಟೆಯ ಐತಿಹಾಸಿಕ ಮಹತ್ವ</h2>
+<ul><li>ಕರ್ನಾಟಕದ ಬೆಟ್ಟದ ಕೋಟೆ ವಾಸ್ತುಶಿಲ್ಪದ ಪ್ರಮುಖ ಉದಾಹರಣೆ.</li><li>ಚಿತ್ತದುರ್ಗದ ನಾಯಕ ವಂಶದ ರಾಜಕೀಯ ಮತ್ತು ಸೈನಿಕ ಇತಿಹಾಸದ ಕೇಂದ್ರ.</li><li>ಪ್ರಾಚೀನ ಜಲಸಂಗ್ರಹ ಮತ್ತು ರಕ್ಷಣಾ ತಂತ್ರಗಳ ಸಾಕ್ಷಿ.</li><li>ಒನಕೆ ಓಬವ್ವನಂತಹ ಸಾಹಸ ಕಥೆಗಳ ಮೂಲಕ ಜನಪದ ಪರಂಪರೆಯೊಂದಿಗೆ ಸಂಪರ್ಕ ಹೊಂದಿದೆ.</li><li>ಕೋಟೆಯೊಳಗಿನ ದೇವಾಲಯಗಳು ಮತ್ತು ಕಟ್ಟಡ ಅವಶೇಷಗಳು ವಿವಿಧ ಕಾಲಘಟ್ಟಗಳ ಸಂಸ್ಕೃತಿಯನ್ನು ತೋರಿಸುತ್ತವೆ.</li></ul>
+<h2>12. ಪ್ರವಾಸಿಗರಿಗೆ ಉಪಯುಕ್ತ ಮಾಹಿತಿ</h2>
+<ul><li><strong>ಸ್ಥಳ:</strong> ಚಿತ್ತದುರ್ಗ ನಗರ, ಕರ್ನಾಟಕ.</li><li><strong>ತಲುಪುವ ಮಾರ್ಗ:</strong> ಬೆಂಗಳೂರು ಮತ್ತು ರಾಜ್ಯದ ಪ್ರಮುಖ ನಗರಗಳಿಂದ ರಸ್ತೆ ಹಾಗೂ ರೈಲು ಸಂಪರ್ಕ ಲಭ್ಯ. ಪ್ರಯಾಣಕ್ಕೂ ಮೊದಲು ಪ್ರಸ್ತುತ ಸಾರಿಗೆ ವೇಳಾಪಟ್ಟಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.</li><li><strong>ಭೇಟಿ ಸಲಹೆ:</strong> ಕೋಟೆಯಲ್ಲಿ ಮೆಟ್ಟಿಲುಗಳು, ಕಲ್ಲಿನ ದಾರಿಗಳು ಮತ್ತು ಏರುಪೇರುಗಳಿರುವುದರಿಂದ ಆರಾಮದಾಯಕ ಪಾದರಕ್ಷೆ ಧರಿಸಿ.</li><li>ನೀರು ತೆಗೆದುಕೊಂಡು ಹೋಗಿ; ಬಿಸಿಲಿನ ಸಮಯದಲ್ಲಿ ವಿಶ್ರಾಂತಿ ಪಡೆಯಿರಿ.</li><li>ಐತಿಹಾಸಿಕ ಗೋಡೆಗಳು, ಶಾಸನಗಳು ಅಥವಾ ದೇವಾಲಯಗಳ ಮೇಲೆ ಬರೆಯಬೇಡಿ; ಕಸವನ್ನು ಹಾಕಬೇಡಿ.</li><li>ಪ್ರವೇಶ ಶುಲ್ಕ, ತೆರೆಯುವ ಸಮಯ ಮತ್ತು ನಿಯಮಗಳು ಬದಲಾಗಬಹುದು. ಭೇಟಿ ಮುನ್ನ ಅಧಿಕೃತ ಪ್ರವಾಸೋದ್ಯಮ/ಪುರಾತತ್ವ ಇಲಾಖೆಯ ಮಾಹಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ.</li></ul>
+<h2>ಸಾರಾಂಶ</h2>
+<p>ಚಿತ್ತದುರ್ಗ ಕೋಟೆ ಕೇವಲ ಕಲ್ಲಿನ ಗೋಡೆಗಳ ಸಮೂಹವಲ್ಲ. ಅದು ಕರ್ನಾಟಕದ ನಾಯಕ ಆಡಳಿತ, ಯುದ್ಧತಂತ್ರ, ನೀರು ಸಂಗ್ರಹದ ಜ್ಞಾನ, ದೇವಾಲಯ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಜನರ ಧೈರ್ಯದ ಕಥೆಗಳನ್ನು ಹೊತ್ತಿರುವ ಐತಿಹಾಸಿಕ ಸ್ಮಾರಕ. ಕೋಟೆಯ ಪ್ರತಿಯೊಂದು ಪ್ರಾಕಾರವೂ ಹಿಂದಿನ ಕಾಲದ ಬದುಕು ಮತ್ತು ರಕ್ಷಣಾ ಚಿಂತನೆಗಳನ್ನು ನೆನಪಿಸುತ್ತದೆ.</p>
+<h2>ಮಾಹಿತಿಯ ಮೂಲಗಳು</h2>
+<div class="sources"><ul>
+<li><a href="https://chitradurga.nic.in/en/history/" target="_blank" rel="noopener">ಚಿತ್ತದುರ್ಗ ಜಿಲ್ಲಾಡಳಿತ – History</a></li>
+<li><a href="https://chitradurga.nic.in/en/tourist-place/fort-of-chitradurga/" target="_blank" rel="noopener">ಚಿತ್ತದುರ್ಗ ಜಿಲ್ಲಾಡಳಿತ – Fort of Chitradurga</a></li>
+<li><a href="https://censusindia.gov.in/nada/index.php/catalog/602/download/2056/DH_2011_2912_PART_A_DCHB_CHITRADURGA.pdf" target="_blank" rel="noopener">Census of India – District Census Handbook (Chitradurga), ASI ಮಾಹಿತಿ</a></li>
+<li><a href="https://karnatakatourism.org/en/attractions/chitradurga-fort/" target="_blank" rel="noopener">Karnataka Tourism – Chitradurga Fort</a></li>
+<li><a href="https://kstdc.co/blog/know-all-about-karnatakas-enchanting-stone-fortress/" target="_blank" rel="noopener">KSTDC – Chitradurga Fort</a></li>
+</ul></div>
+<p class="note">BAS EDUCATION | ಕನ್ನಡ ಇತಿಹಾಸ ಮತ್ತು ಪರಂಪರೆಯ ಜ್ಞಾನವನ್ನು ಎಲ್ಲರಿಗೂ ತಲುಪಿಸುವ ಪ್ರಯತ್ನ.</p>
+<a class="btn" href="../index.html">BAS EDUCATION ಮುಖ್ಯ ಪುಟಕ್ಕೆ ಹಿಂತಿರುಗಿ</a>
+</article>
+<div class="footer">© BAS EDUCATION · History • Heritage • Knowledge</div>
+</main>
+</body>
+</html>
